@@ -54,6 +54,12 @@ Future support for **negative temperatures** may be added in hardware and softwa
 - Multiplexing to reduce pin usage.
 - Configurable ADC reference voltage.
 
+- ## Simulation
+
+![LM35 Simulation](error.png)
+![LM35 Simulation](positive.png)
+
+
 ---
 
 ## License
